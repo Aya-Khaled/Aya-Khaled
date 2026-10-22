@@ -87,20 +87,29 @@ I'm particularly interested in how backend systems can be combined with AI agent
 
 ## 🛠️ Tech Stack & Tools
 
-### Programming Languages
+### 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+* C++
+* Python
+* C#
 
-### AI & Automation
+### 🤖 AI & Development
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+* AI Agents
+* Large Language Models (LLMs)
+* REST APIs
 
-### Development Tools
+### 🗄️ Databases & Frameworks
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+* MySQL
+* .NET
+
+### ⚙️ Development Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+
 
 
 ## ⚙️ Mechanical Engineering + Computer Science
