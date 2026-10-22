@@ -89,32 +89,19 @@ I'm particularly interested in how backend systems can be combined with AI agent
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs" alt="Programming Languages"/>
-</p>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### AI & Automation
 
-<p>
-  <img src="https://img.shields.io/badge/AI_Agents-Exploring-blue?style=for-the-badge" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/LLMs-Language_Models-purple?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/REST_APIs-Integration-green?style=for-the-badge" alt="REST APIs"/>
-</p>
-
-### Databases & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,dotnet" alt="Backend and Database Technologies"/>
-</p>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 
 ### Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
----
 
 ## ⚙️ Mechanical Engineering + Computer Science
 
