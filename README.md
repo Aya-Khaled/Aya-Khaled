@@ -165,6 +165,13 @@ I continue to expand my knowledge through practical development, AI experimentat
 
 ---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aya-Khaled\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-Khaled\&layout=compact\&theme=tokyonight)
+
+
 ## 📫 Connect With Me
 
 * **GitHub:** https://github.com/Aya-Khaled
