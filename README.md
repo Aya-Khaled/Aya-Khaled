@@ -89,26 +89,27 @@ I'm particularly interested in how backend systems can be combined with AI agent
 
 ### 💻 Programming Languages
 
-* C++
-* Python
-* C#
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![C#](https://skillicons.dev/icons?i=cs)
 
-### 🤖 AI & Development
+### 🤖 AI & Automation
 
-* AI Agents
-* Large Language Models (LLMs)
-* REST APIs
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 
 ### 🗄️ Databases & Frameworks
 
-* MySQL
-* .NET
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
 ### ⚙️ Development Tools
 
-* Git
-* GitHub
-* Visual Studio Code
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 
 
